@@ -1,1 +1,3 @@
-i have add the demo video for this project
+opencv-python
+mediapipe
+numpy
